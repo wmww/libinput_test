@@ -1,0 +1,7 @@
+*.o
+*.gch
+bin
+build
+*.sconsign.dblite
+nogit
+nocompile/
